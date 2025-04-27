@@ -1,0 +1,11 @@
+{
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "localhost\\MICROSQLSERVER",
+    "database": "PayrollDB",
+    "username": "",
+    "password": "",
+    "connection_timeout": 30,
+    "encrypt": false,
+    "trusted_connection": false,
+    "app_name": "PayDatabase"
+} 

@@ -1,0 +1,4 @@
+pyodbc
+pillow
+pymssql
+pytest
